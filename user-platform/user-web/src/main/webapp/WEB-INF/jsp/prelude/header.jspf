@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html style="height:100%" xmlns="http://www.w3.org/1999/xhtml">
+<jsp:directive.page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" />
+<jsp:directive.include file="/WEB-INF/jsp/prelude/include-taglibs.jspf" />
+<jsp:directive.include file="/WEB-INF/jsp/prelude/variables.jspf" />
+<jsp:directive.include file="/WEB-INF/jsp/prelude/include-css.jspf" />
+<script src="/static/js/jquery-3.5.1.slim.min.js" crossorigin="anonymous"></script>
+<script src="/static/js/popper-1.16.1.min.js" crossorigin="anonymous"></script>
+<script src="/static/js/bootstrap-4.6.0.min.js" crossorigin="anonymous"></script>
